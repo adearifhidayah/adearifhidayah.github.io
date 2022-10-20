@@ -125,6 +125,9 @@ button:focus {
     line-height: 26px;
     color: #777777;
     margin-bottom: 0px; }
+    .more_btn {
+      text-align: center;
+      margin-top: 80px; }
 
 /* End Main Title Area css
 ============================================================================================ */
@@ -293,6 +296,9 @@ button:focus {
       height: auto;
       margin-top: -6px;
       right: 20px; }
+      .more_btn {
+        text-align: center;
+        margin-top: 80px; }
 
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
@@ -420,6 +426,9 @@ button:focus {
           display: none; }
       .banner_area .banner_inner .banner_content .page_link a:hover {
         color: #766dff; }
+        .more_btn {
+          text-align: center;
+          margin-top: 80px; }
 
 /* End Home Banner Area css
 ============================================================================================ */
@@ -452,6 +461,9 @@ button:focus {
     margin-bottom: 0px; }
   .l_blog_item:hover h4 {
     color: #766dff; }
+    .more_btn {
+      text-align: center;
+      margin-top: 80px; }
 
 /* End Latest Blog Area css
 ============================================================================================ */
@@ -490,6 +502,9 @@ button:focus {
     background: #766dff; }
   .tags .tag_btn + .tag_btn {
     margin-left: 2px; }
+    .more_btn {
+      text-align: center;
+      margin-top: 80px; }
 
 /*========= blog_categorie_area css ===========*/
 .blog_categorie_area {
@@ -536,6 +551,9 @@ button:focus {
     background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
     background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
     opacity: 0.851; }
+    .more_btn {
+      text-align: center;
+      margin-top: 80px; }
 
 /*============ blog_left_sidebar css ==============*/
 .blog_item {
@@ -796,6 +814,9 @@ button:focus {
   text-decoration: none;
   background-color: #766dff;
   border-color: #eee; }
+  .more_btn {
+    text-align: center;
+    margin-top: 80px; }
 
 /*============ Start Blog Single Styles  =============*/
 .single-post-area .social-links {
@@ -986,6 +1007,9 @@ button:focus {
     /* Firefox 18- */
     font-size: 13px;
     color: #777; }
+    .more_btn {
+      text-align: center;
+      margin-top: 80px; }
 
 /*============ End Blog Single Styles  =============*/
 /*---------------------------------------------------- */
@@ -1071,6 +1095,9 @@ button:focus {
     right: 22px; }
 .reservation_form .form-group:last-child {
   text-align: center; }
+  .more_btn {
+    text-align: center;
+    margin-top: 80px; }
 
 /* End Reservation Form Area css
 ============================================================================================ */
@@ -1132,6 +1159,9 @@ button:focus {
 .contact_form .submit_btn {
   margin-top: 20px;
   cursor: pointer; }
+  .more_btn {
+    text-align: center;
+    margin-top: 80px; }
 
 /* Contact Success and error Area css
 ============================================================================================ */
@@ -1199,6 +1229,9 @@ button:focus {
       color: #766dff; }
     .sample-text-area p u {
       color: #766dff; }
+      .more_btn {
+        text-align: center;
+        margin-top: 80px; }
 
 /*============== End Elements Area css ================*/
 /*==============Elements Button Area css ================*/
@@ -1332,6 +1365,9 @@ button:focus {
   line-height: 38px;
   padding-top: 0px;
   padding-bottom: 0px; }
+  .more_btn {
+    text-align: center;
+    margin-top: 80px; }
 
 /*==============End Elements Button Area css ================*/
 /* =================================== */
@@ -1383,6 +1419,9 @@ button:focus {
 
 .switch-wrap p {
   margin: 0; }
+  .more_btn {
+    text-align: center;
+    margin-top: 80px; }
 
 /*---------- End Elements Page -------------*/
 .sample-text-area {
@@ -2360,6 +2399,9 @@ h6 {
 
 .form-select .nice-select::after {
   right: 20px; }
+  .more_btn {
+    text-align: center;
+    margin-top: 80px; }
 
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
@@ -2465,6 +2507,9 @@ h6 {
   .black_btn:hover {
     background: #766dff;
     color: #222222; }
+    .more_btn {
+      text-align: center;
+      margin-top: 80px; }
 
 /* End Main Button Area css
 ============================================================================================ */
@@ -2545,6 +2590,9 @@ h6 {
         background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
         background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
         background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%); }
+        .more_btn {
+          text-align: center;
+          margin-top: 80px; }
 
 /* End Welcome Area css
 ============================================================================================ */
@@ -2631,6 +2679,9 @@ h6 {
     .tabs_inner .tab-content .tab-pane .list li .media .media-body p {
       color: rgba(255, 255, 255, 0.75);
       margin-bottom: 0px; }
+      .more_btn {
+        text-align: center;
+        margin-top: 80px; }
 
 /* End My Tabs Area css
 ============================================================================================ */
@@ -2688,6 +2739,9 @@ h6 {
       background: linear-gradient(to right, #8490ff 0%, #62bdfc 70%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent; }
+      .more_btn {
+        text-align: center;
+        margin-top: 80px; }
 
 /* End Feature Area css
 ============================================================================================ */
@@ -2763,6 +2817,9 @@ h6 {
       background-image: -moz-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
       background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
       background-image: -ms-linear-gradient(0deg, #766dff 0%, #88f3ff 100%); }
+      .more_btn {
+        text-align: center;
+        margin-top: 80px; }
 
 /* End Personal Profile Area css
 ============================================================================================ */
